@@ -144,7 +144,6 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-cd $HOME
 rm -rf web-doctor
 git clone https://github.com/shehan-9909/web_doctor
 cd web-doctor
