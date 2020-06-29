@@ -1,5 +1,7 @@
 #usr/bin/bash
 clear
+#dont copyright or mod this script
+#shehan lahiru
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
 pur='\033[35;1m' #purple
@@ -29,7 +31,7 @@ echo $i"         |"$ku" 5"$i" |"$bi" UNINSTALL UBUNTU.       "$i"|"
 echo $i"         |"$i" 6"$i" |"$i" UNINSTALL KALI.         "$i"|"
 echo $i"         |"$bi" 7"$i" |"$pur" INSTALL PKGS.           "$i"|"
 echo $i"         |"$cy" 8"$i" |"$pin" UPDATE.                 "$i"|"
-echo $i"         |"$me" 0"$i" |"$pbi" EXIT.                   "$i"|"
+echo $i"         |"$me" 0"$i" |"$pbi" WHATSAPP OTP HACK"$i"|"
 echo $pu"    ─────|─────────────────────────────|─────"
 echo $me"¦"
 read -p" ¥øuř ©hôïç€ " pil
@@ -149,7 +151,6 @@ fi
 if [ $pil = 0 ]
 then
 clear
-figlet -f slant "E X I T"|lolcat
-sleep 2.1
-exit
+figlet -f slant "W A I T"|lolcat
+git clone https://github.com/Ignitetch/AdvPhishing.git
 fi
