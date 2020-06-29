@@ -16,10 +16,10 @@ figlet -f slant "W E B
 sleep 5
 echo
 echo $i"["$bi"¤"$i"]"$me"───────────────────────────────────────────"$i"["$bi"¤"$i"]"
-echo $i" |"$cy"  WEB DOCTOR V1.1 UPDATE COMING UP 30/06/2028"$i"|"
+echo $i" |"$cy"  WEB DOCTOR V1.1 UPDATE COMING UP 30/06/2020"$i"|"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" FACEBOOK :"$ku" shehan lahiru"$i"                    |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" +94774593770"$i"             |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" +94774593440"$i"             |"
 echo $i"["$bi"¤"$i"]"$me"───────────────────────────────────────────"$i"["$bi"¤"$i"]"
 echo
 echo $pu"    ─────|─────────────────────────────|─────"
