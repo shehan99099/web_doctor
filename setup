@@ -138,10 +138,12 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-rm -rf web-doctor
+cd $HOME
+rm -rf web_doctor
 git clone https://github.com/shehan-9909/web_doctor
-cd web-doctor
-sh setup
+cd web_doctor
+chmod 777 setup
+./setup
 fi
 
 if [ $pil = 0 ]
