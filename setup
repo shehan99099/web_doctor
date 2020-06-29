@@ -39,7 +39,6 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-cd HOME
 apt-get update -y
 apt-get upgrade -y
 pkg install python2 -y
@@ -69,7 +68,6 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-cd $HOME
 pkg install unstable-repo
 pkg install metasploit
 fi
@@ -79,7 +77,6 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-cd $HOME
 pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh
 wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/SSH/Apt/ssh-apt.sh && bash ssh-apt.sh
 fi
@@ -89,7 +86,6 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-cd $HOME
 pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh && bash ubuntu.sh
 wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/SSH/Apt/ssh-apt.sh && bash ssh-apt.sh
 fi
@@ -99,7 +95,6 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-cd $HOME
 wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Uninstaller/Ubuntu/UNI-ubuntu.sh && bash UNI-ubuntu.sh
 fi
 
@@ -108,7 +103,6 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-cd $HOME
 wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Uninstaller/Kali/UNI-kali.sh && bash UNI-kali.sh
 fi
 
