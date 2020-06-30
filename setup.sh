@@ -31,7 +31,7 @@ echo $i"         |"$ku" 5"$i" |"$bi" UNINSTALL UBUNTU.       "$i"|"
 echo $i"         |"$i" 6"$i" |"$i" UNINSTALL KALI.         "$i"|"
 echo $i"         |"$bi" 7"$i" |"$pur" INSTALL PKGS.           "$i"|"
 echo $i"         |"$cy" 8"$i" |"$pin" UPDATE.                 "$i"|"
-echo $i"         |"$i" 9"$i" |"$i" Location.                "$i"|"
+echo $i"         |"$i" 9"$i" |"$i" Location coming up      "$i"|"
 echo $i"         |─────────────────────────────|"
 echo $i"         |"$me" 0"$i" |"$pbi" WHATSAPP OTP HACK.      "$i"|"
 echo $pu"    ─────|─────────────────────────────|─────"
@@ -155,7 +155,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thewhiteh4t/seeker
+exit
 fi
 
 if [ $pil = 0 ]
