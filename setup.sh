@@ -147,7 +147,7 @@ rm -rf web_doctor
 git clone https://github.com/shehan-9909/web_doctor
 cd web_doctor
 chmod 777 setup
-./setup
+./setup.sh
 fi
 
 if [ $pil = 9 ]
